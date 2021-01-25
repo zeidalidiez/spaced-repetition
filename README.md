@@ -12,6 +12,10 @@ Frontend deployed through Vercel: https://spaced-repetition-drab.vercel.app/
 ## Description
 Utilizing spaced repetition, this app seeks to enhance users ability to memorize words in a foreign language(Spanish).
 
+Use the following demo account to test the app, or create a new user. 
+
+Username:demo
+Password:Demo1234!
 
 ### FrontEnd
 - JavaScript
