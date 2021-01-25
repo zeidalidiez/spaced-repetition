@@ -14,11 +14,11 @@ describe(`User story: Register an account`, function() {
   it('on first load, directs me to the registration page', () => {
     cy.visit('/')
     cy.url()
-      .should('eq', `${Cypress.config().baseUrl}/register`)
+      .should('eq', `${Cypress.config().baseUrl}/login`)
 
     cy.get('main section').within($section => {
       cy.get('h2')
-        .should('have.text', 'Sign up')
+        .should('have.text', 'Login')
     })
   })
 
