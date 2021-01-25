@@ -5,7 +5,7 @@ export default function Loading(props) {
   return (
     <div className="loading-container">
       <MagicSpinner
-          size={50}
+          size={10}
           color="darkslategrey"
           className="loading"
           loading={props.loading}

@@ -9,7 +9,8 @@
     margin-right: 3%;
     margin-left: 3%;
     height:500px;
-    background:rgba(255,255,255,0.5);
+    background:rgba(0, 0, 0, 0.534);
+    color: white
 }
 h4{
     font-size:3em;
@@ -19,11 +20,12 @@ h4{
     .DashCard{
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
         transition: 0.3s;
-        width:60%;
+        width:80%;
         height:200px;
         margin-bottom: .5em;
-        background:rgba(255,255,255,0.5);
+        background:rgba(0, 0, 0, 0.534);
         min-width: 250px;
+        color: white
     }
     h4{
         font-size:2em;

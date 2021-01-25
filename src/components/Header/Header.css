@@ -5,7 +5,7 @@ nav {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: rgba(0, 0, 0, 0.596);
   overflow-x: hidden;
   padding-top: 60px;
   transition: .6s;
